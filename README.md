@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Adam!
+Data Engineer with background in cloud computing & data warehousing and experience in data visualization and machine learning. I'm a skilled communicator with sharp eye for "the little thing.
+
+<img width="960" height="663" alt="image" src="https://github.com/user-attachments/assets/cd378ffa-62a9-4cbf-901f-a52e16e69eae" />
+
+
+
 
 <!--
 **adamhospodka/adamhospodka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
